@@ -7,7 +7,7 @@ public class Calender {
   public static void main(String[] args)
   {
     Scanner s=new Scanner(System.in);
-    System.out.println("Enter the date in format of YYYY MM DD");
+    System.out.println("Enter the date in format of YYYY MM DD   ");
     
      int year=s.nextInt();
      int month=s.nextInt();
