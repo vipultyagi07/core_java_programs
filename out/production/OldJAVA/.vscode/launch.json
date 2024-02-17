@@ -1,0 +1,1013 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch P7Ch_Syntax_of_Method_Static_new",
+            "request": "launch",
+            "mainClass": "P7Ch_Syntax_of_Method_Static_new",
+            "projectName": "aAJavaCorePrograms_69351193"
+        },
+        {
+            "type": "java",
+            "name": "Launch P7Ch_Syntax_of_Method_Obj",
+            "request": "launch",
+            "mainClass": "P7Ch_Syntax_of_Method_Obj",
+            "projectName": "aAJavaCorePrograms_69351193"
+        },
+        {
+            "type": "java",
+            "name": "Launch P7Ch_Syntax_of_Method_Objective",
+            "request": "launch",
+            "mainClass": "P7Ch_Syntax_of_Method_Objective",
+            "projectName": "aAJavaCorePrograms_69351193"
+        },
+        {
+            "type": "java",
+            "name": "Launch P7Ch_Syntax_of_Method_Static",
+            "request": "launch",
+            "mainClass": "P7Ch_Syntax_of_Method_Static",
+            "projectName": "aAJavaCorePrograms_69351193"
+        },
+        {
+            "type": "java",
+            "name": "Launch P15AdvJava_LinkedList",
+            "request": "launch",
+            "mainClass": "P15AdvJava_LinkedList",
+            "projectName": "aAJavaCorePrograms_69351193"
+        },
+        {
+            "type": "java",
+            "name": "Launch P15Advjavac_ArrayDeque",
+            "request": "launch",
+            "mainClass": "P15Advjavac_ArrayDeque",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P15Advjavab_Queue_Implement_using_2CollectionFramework",
+            "request": "launch",
+            "mainClass": "P15Advjavab_Queue_Implement_using_2CollectionFramework",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P15Advjavab_Queue_Implement_using_1LinkedList",
+            "request": "launch",
+            "mainClass": "P15Advjavab_Queue_Implement_using_1LinkedList",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P15Advjavab_QueueCircular_Implement_using_1Array",
+            "request": "launch",
+            "mainClass": "P15Advjavab_QueueCircular_Implement_using_1Array",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P15Advjavab_Queue_Implement_using_1Array",
+            "request": "launch",
+            "mainClass": "P15Advjavab_Queue_Implement_using_1Array",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P15AdvJava_Stack_Using_Collection_Framework",
+            "request": "launch",
+            "mainClass": "P15AdvJava_Stack_Using_Collection_Framework",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P15AdvJava_Stack_Using_ArrayList",
+            "request": "launch",
+            "mainClass": "P15AdvJava_Stack_Using_ArrayList",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P15AdvJava_Stack_Using_LinkedList",
+            "request": "launch",
+            "mainClass": "P15AdvJava_Stack_Using_LinkedList",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P15AdvJava_LinkedList_Using_Collection_Framework",
+            "request": "launch",
+            "mainClass": "P15AdvJava_LinkedList_Using_Collection_Framework",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P15AdvJava_LinkedList_scratch",
+            "request": "launch",
+            "mainClass": "P15AdvJava_LinkedList_scratch",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P15AdvJava_LinkedList",
+            "request": "launch",
+            "mainClass": "P15AdvJava_LinkedList",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch DiagonalDiff_ArrayList",
+            "request": "launch",
+            "mainClass": "Array.DiagonalDiff_ArrayList",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch DiagonalDiff_ArrayList",
+            "request": "launch",
+            "mainClass": "DiagonalDiff_ArrayList",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P15AdvJava_Array_List_Methods",
+            "request": "launch",
+            "mainClass": "P15AdvJava_Array_List_Methods",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P14Ch_Finally",
+            "request": "launch",
+            "mainClass": "P14Ch_Finally",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P14Ch_throw_throws",
+            "request": "launch",
+            "mainClass": "P14Ch_throw_throws",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P14Ch_Custom_Exception_Class",
+            "request": "launch",
+            "mainClass": "P14Ch_Custom_Exception_Class",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P5_Loop_Q5",
+            "request": "launch",
+            "mainClass": "P5_Loop_Q5",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P14Ch_Quick_Quiz",
+            "request": "launch",
+            "mainClass": "P14Ch_Quick_Quiz",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P14Ch_Specific_Exception",
+            "request": "launch",
+            "mainClass": "P14Ch_Specific_Exception",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P14Ch_try_and_catch",
+            "request": "launch",
+            "mainClass": "P14Ch_try_and_catch",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P14Ch_Errors_Excepions",
+            "request": "launch",
+            "mainClass": "P14Ch_Errors_Excepions",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P14Ch_Errors_Runtime",
+            "request": "launch",
+            "mainClass": "P14Ch_Errors_Runtime",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P14Ch_Errors_Logical",
+            "request": "launch",
+            "mainClass": "P14Ch_Errors_Logical",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prime_No_By_While",
+            "request": "launch",
+            "mainClass": "Prime_No_By_While",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P14Ch_Errors_Demo",
+            "request": "launch",
+            "mainClass": "P14Ch_Errors_Demo",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Eercise6",
+            "request": "launch",
+            "mainClass": "Eercise6",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P13_Thread_Q3_Q4",
+            "request": "launch",
+            "mainClass": "P13_Thread_Q3_Q4",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P13_Thread_Q3",
+            "request": "launch",
+            "mainClass": "P13_Thread_Q3",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P13_Thread_Q2",
+            "request": "launch",
+            "mainClass": "P13_Thread_Q2",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P13_Thread_Q1",
+            "request": "launch",
+            "mainClass": "P13_Thread_Q1",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P13Ch_Creating_Thread_By_Extending",
+            "request": "launch",
+            "mainClass": "P13Ch_Creating_Thread_By_Extending",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch a1234$P13_Thread_Sleep_Method",
+            "request": "launch",
+            "mainClass": "a1234$P13_Thread_Sleep_Method",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P13_Thread_Sleep_Method",
+            "request": "launch",
+            "mainClass": "P13_Thread_Sleep_Method",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P13_Thread_Join_Methods",
+            "request": "launch",
+            "mainClass": "P13_Thread_Join_Methods",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P13_Thread_Methods",
+            "request": "launch",
+            "mainClass": "P13_Thread_Methods",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P13_Threads_Priority",
+            "request": "launch",
+            "mainClass": "P13_Threads_Priority",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Calender",
+            "request": "launch",
+            "mainClass": "Calender",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P13_Thread_Constructor",
+            "request": "launch",
+            "mainClass": "P13_Thread_Constructor",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P13_Creating_Thread_By_Runnable_Interface",
+            "request": "launch",
+            "mainClass": "P13_Creating_Thread_By_Runnable_Interface",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P13_Creating_Thread_By_Extending",
+            "request": "launch",
+            "mainClass": "P13_Creating_Thread_By_Extending",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P10_Inheritance_Constructor",
+            "request": "launch",
+            "mainClass": "P10_Inheritance_Constructor",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P10_Inheritance_super",
+            "request": "launch",
+            "mainClass": "P10_Inheritance_super",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch MotorCycle$P10_Inheritance_super",
+            "request": "launch",
+            "mainClass": "MotorCycle$P10_Inheritance_super",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch TypeCasting",
+            "request": "launch",
+            "mainClass": "TypeCasting",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch String_methods",
+            "request": "launch",
+            "mainClass": "String.String_methods",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch String_methods",
+            "request": "launch",
+            "mainClass": "String_methods",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P7_method_Q5",
+            "request": "launch",
+            "mainClass": "P7_method_Q5",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWord",
+            "request": "launch",
+            "mainClass": "HelloWord",
+            "projectName": "programs_e6ee07e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWord",
+            "request": "launch",
+            "mainClass": "HelloWord",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch AATestingProgram",
+            "request": "launch",
+            "mainClass": "AATestingProgram",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise4",
+            "request": "launch",
+            "mainClass": "Exercise4",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P11_Abstract_Q6",
+            "request": "launch",
+            "mainClass": "P11_Abstract_Q6",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P11_Abstract_Q4",
+            "request": "launch",
+            "mainClass": "P11_Abstract_Q4",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P11_Abstract_Q3",
+            "request": "launch",
+            "mainClass": "P11_Abstract_Q3",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P11_Abstract_Q2",
+            "request": "launch",
+            "mainClass": "P11_Abstract_Q2",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P11_Abstract_Q1",
+            "request": "launch",
+            "mainClass": "P11_Abstract_Q1",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch String_methods",
+            "request": "launch",
+            "mainClass": "String_methods",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P11Ch_Inheritance_In_Interfaces",
+            "request": "launch",
+            "mainClass": "P11Ch_Inheritance_In_Interfaces",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P11Ch_Default_Methods",
+            "request": "launch",
+            "mainClass": "P11Ch_Default_Methods",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P11Ch_Multiple_Inheritance_solution",
+            "request": "launch",
+            "mainClass": "P11Ch_Multiple_Inheritance_solution",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P11Ch_Interface_1",
+            "request": "launch",
+            "mainClass": "P11Ch_Interface_1",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P10_inheritance_override",
+            "request": "launch",
+            "mainClass": "P10_inheritance_override",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P10_Inheritance_Method_Overriding",
+            "request": "launch",
+            "mainClass": "P10_Inheritance_Method_Overriding",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P11Ch_Abstract_1",
+            "request": "launch",
+            "mainClass": "P11Ch_Abstract_1",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P10_Inheritance_Q2",
+            "request": "launch",
+            "mainClass": "P10_Inheritance_Q2",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P10_Inheritance_Q1",
+            "request": "launch",
+            "mainClass": "P10_Inheritance_Q1",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch AATestingProgram",
+            "request": "launch",
+            "mainClass": "AATestingProgram",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch Printf_Format_Println",
+            "request": "launch",
+            "mainClass": "Printf_Format_Println",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P10_Inheritance_Dynamic_Method_Dispatch",
+            "request": "launch",
+            "mainClass": "P10_Inheritance_Dynamic_Method_Dispatch",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P10_Inheritance_Constructor",
+            "request": "launch",
+            "mainClass": "P10_Inheritance_Constructor",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P10_Inheritance",
+            "request": "launch",
+            "mainClass": "P10_Inheritance",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sphere$P9_AccessModifier_Q5",
+            "request": "launch",
+            "mainClass": "Sphere$P9_AccessModifier_Q5",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P9_AccessModifier_Q4",
+            "request": "launch",
+            "mainClass": "P9_AccessModifier_Q4",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P9_AccessModifier_Q3",
+            "request": "launch",
+            "mainClass": "P9_AccessModifier_Q3",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cylinder$P9_AccessModifier_Q1_Q2",
+            "request": "launch",
+            "mainClass": "Cylinder$P9_AccessModifier_Q1_Q2",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P9_Oops_Q1",
+            "request": "launch",
+            "mainClass": "P9_Oops_Q1",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P9Ch_Oops_GuessTheNo",
+            "request": "launch",
+            "mainClass": "P9Ch_Oops_GuessTheNo",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P9_Constructor_overloading",
+            "request": "launch",
+            "mainClass": "P9_Constructor_overloading",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P9_Constructor",
+            "request": "launch",
+            "mainClass": "P9_Constructor",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P9Ch_accessmodifer",
+            "request": "launch",
+            "mainClass": "P9Ch_accessmodifer",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P8_Oops_Q6",
+            "request": "launch",
+            "mainClass": "P8_Oops_Q6",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P8_Oops_Q5",
+            "request": "launch",
+            "mainClass": "P8_Oops_Q5",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P8_Oops_Q4",
+            "request": "launch",
+            "mainClass": "P8_Oops_Q4",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P8_Oops_Q3",
+            "request": "launch",
+            "mainClass": "P8_Oops_Q3",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P8_Oops_Q2",
+            "request": "launch",
+            "mainClass": "P8_Oops_Q2",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P8_Oops_Q1",
+            "request": "launch",
+            "mainClass": "P8_Oops_Q1",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P7_Method_Q3",
+            "request": "launch",
+            "mainClass": "P7_Method_Q3",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P8_Oops_CustomClass",
+            "request": "launch",
+            "mainClass": "P8_Oops_CustomClass",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P7_Method_Q9",
+            "request": "launch",
+            "mainClass": "P7_Method_Q9",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P7_method_Q5",
+            "request": "launch",
+            "mainClass": "P7_method_Q5",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P7_Method_Q4",
+            "request": "launch",
+            "mainClass": "P7_Method_Q4",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P7_Method_Q2",
+            "request": "launch",
+            "mainClass": "P7_Method_Q2",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P7_Method_Q1",
+            "request": "launch",
+            "mainClass": "P7_Method_Q1",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P7Ch_Recursion_Fibonacci",
+            "request": "launch",
+            "mainClass": "P7Ch_Recursion_Fibonacci",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P7Ch_Recursion_Factorial",
+            "request": "launch",
+            "mainClass": "P7Ch_Recursion_Factorial",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P7Ch_Variable_Arguments_2",
+            "request": "launch",
+            "mainClass": "P7Ch_Variable_Arguments_2",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P7Ch_Variable_Arguments",
+            "request": "launch",
+            "mainClass": "P7Ch_Variable_Arguments",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P7Ch_Arrays_In_Method",
+            "request": "launch",
+            "mainClass": "P7Ch_Arrays_In_Method",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P7Ch_Syntax_of_Method_Static",
+            "request": "launch",
+            "mainClass": "P7Ch_Syntax_of_Method_Static",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P7Ch_Syntax_of_Method",
+            "request": "launch",
+            "mainClass": "P7Ch_Syntax_of_Method",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P6_Array_Q8",
+            "request": "launch",
+            "mainClass": "P6_Array_Q8",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P6_Array_Q7",
+            "request": "launch",
+            "mainClass": "P6_Array_Q7",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P6_Array_Q6",
+            "request": "launch",
+            "mainClass": "P6_Array_Q6",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P6_Array_Q4",
+            "request": "launch",
+            "mainClass": "P6_Array_Q4",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P6_Array_Q3",
+            "request": "launch",
+            "mainClass": "P6_Array_Q3",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P6_Array_Q2",
+            "request": "launch",
+            "mainClass": "P6_Array_Q2",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P6_Array_Q1",
+            "request": "launch",
+            "mainClass": "P6_Array_Q1",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch check",
+            "request": "launch",
+            "mainClass": "check",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiDimensional_Array_Print",
+            "request": "launch",
+            "mainClass": "MultiDimensional_Array_Print",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch Print_Reverse_Array",
+            "request": "launch",
+            "mainClass": "Print_Reverse_Array",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array1",
+            "request": "launch",
+            "mainClass": "Array1",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch Calculator_using_switchCase_and_dowhile",
+            "request": "launch",
+            "mainClass": "Calculator_using_switchCase_and_dowhile",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P5_Loop_Q9",
+            "request": "launch",
+            "mainClass": "P5_Loop_Q9",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P5_Loop_Q5",
+            "request": "launch",
+            "mainClass": "P5_Loop_Q5",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch String_Q2",
+            "request": "launch",
+            "mainClass": "String_Q2",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P5_loop_Q4",
+            "request": "launch",
+            "mainClass": "P5_loop_Q4",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch String_Q5",
+            "request": "launch",
+            "mainClass": "String_Q5",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch String_Q3",
+            "request": "launch",
+            "mainClass": "String_Q3",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P5_Loop_Q3",
+            "request": "launch",
+            "mainClass": "P5_Loop_Q3",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P5_Loop_Q2",
+            "request": "launch",
+            "mainClass": "P5_Loop_Q2",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P5_Loop_Q1",
+            "request": "launch",
+            "mainClass": "P5_Loop_Q1",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch checkp1",
+            "request": "launch",
+            "mainClass": "checkp1",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch Break_Continue",
+            "request": "launch",
+            "mainClass": "Break_Continue",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hcf_Lcm",
+            "request": "launch",
+            "mainClass": "Hcf_Lcm",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prime_No_By_While",
+            "request": "launch",
+            "mainClass": "Prime_No_By_While",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rock_Paper_Scissors",
+            "request": "launch",
+            "mainClass": "Rock_Paper_Scissors",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P4_Conditionals_Q7",
+            "request": "launch",
+            "mainClass": "P4_Conditionals_Q7",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P4_Conditionals_Q6",
+            "request": "launch",
+            "mainClass": "P4_Conditionals_Q6",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P4_Conditionals_Q5",
+            "request": "launch",
+            "mainClass": "P4_Conditionals_Q5",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P4_condtionalsQ4",
+            "request": "launch",
+            "mainClass": "P4_condtionalsQ4",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckTax",
+            "request": "launch",
+            "mainClass": "CheckTax",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P4_Conditionals_Q3",
+            "request": "launch",
+            "mainClass": "P4_Conditionals_Q3",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P4_Conditionals_Q2",
+            "request": "launch",
+            "mainClass": "P4_Conditionals_Q2",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch P4_Conditionals_Q1",
+            "request": "launch",
+            "mainClass": "P4_Conditionals_Q1",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch String_Q4",
+            "request": "launch",
+            "mainClass": "String_Q4",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "type": "java",
+            "name": "Launch Calculator_using_switchCase",
+            "request": "launch",
+            "mainClass": "Calculator_using_switchCase",
+            "projectName": "programs_388f2814"
+        },
+        {
+            "name": "(Windows) Launch",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "enter program name, for example ${workspaceFolder}/a.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "console": "externalTerminal"
+        }
+    ]
+}
